@@ -1,2 +1,0 @@
-# backend-school
-backend-school
